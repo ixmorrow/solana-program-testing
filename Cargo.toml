@@ -16,8 +16,6 @@ test-bpf = []
 solana-program-test = "=1.11.1"
 solana-sdk = "=1.11.1"
 assert_matches = "1.4.0"
-solana-validator = "=1.11.1"
-solana-logger = "=1.11.1"
 
 [lib]
 crate-type = ["cdylib", "lib"]
